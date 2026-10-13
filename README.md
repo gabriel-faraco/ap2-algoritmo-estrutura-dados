@@ -2,7 +2,7 @@
 
 ## 1. Identificação
 
-**Alunos:** Gabriel Oliveira Faraco e Larissa Mariana Fontes Reis
+**Alunos:** Gabriel Oliveira Faraco, Larissa Mariana Fontes Reis e Emanuel da Silva Teixeira
 **Disciplina:** Algoritmos e Estruturas de Dados  
 **Linguagem:** Java 25
 
